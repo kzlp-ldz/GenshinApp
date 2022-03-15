@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28583cd1-731a-4985-888e-7b3b5ac07c66": {
+      "ProjectGuid": "28583cd1-731a-4985-888e-7b3b5ac07c66",
+      "DisplayName": "GenshinApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

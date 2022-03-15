@@ -9,12 +9,12 @@ using GenshinInfo.Enums;
 
 namespace GenshinApp.DB
 {
-    internal class Test
+    internal class WishCounter
     {
         private string value;
         private GachaInfoManager manag;
 
-        public Test()
+        public WishCounter()
         {
             manag = new GachaInfoManager();
         }
